@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shakthi Raghul  
 
-📧 **your.email@example.com**  
-🎓 **B.Tech in Computer Engineering**  
+📧 **Shakthiraghul@gmail.com**  
+🎓 **BBA in HR and Finance**  
 
 ---
 
