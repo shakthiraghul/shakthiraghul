@@ -29,7 +29,7 @@ To design and manage scalable, secure, and automated IT infrastructures, while c
 ---
 
 ### 🔗 Connect with Me  
-- Email: **your.email@example.com**  
+- Email: **shakthiraghul@gmail.com**  
 - GitHub: [github.com/shakthiraghul](https://github.com/shakthiraghul)  
 
 ---
